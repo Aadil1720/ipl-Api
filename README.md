@@ -30,7 +30,7 @@ A RESTful API built with **Node.js**, **Express.js**, and **MongoDB** to manage 
 - **Validation**: Joi
 - **File Uploads**: Multer
 - **Environment Management**: Dotenv
-- **Logging**: Morgan (optional)
+- **Logging**: winston (optional)
 
 ---
 
